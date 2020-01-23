@@ -1,6 +1,8 @@
 ## Welcome to My GitHub Page
 ### Joe Ruggeri
 
+Updated: Jan. 22, 2020
+
 Web developer | http://www.theday.com | j.ruggeri@theday.com
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
