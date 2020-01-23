@@ -1,5 +1,9 @@
-## Welcome to GitHub Pages
-### Markdown
+## Welcome to My GitHub Page
+### Joe Ruggeri
+
+Web developer | http://www.theday.com | j.ruggeri@theday.com
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
