@@ -3,8 +3,6 @@
 
 Web developer | http://www.theday.com | j.ruggeri@theday.com
 
-
-
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
